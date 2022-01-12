@@ -1,0 +1,7 @@
+subjects:
+  pid-type: sub
+  schemes:
+    - id: GND
+      data-file: subjects_gnd.yaml
+      name: GND subjects (Deutsch)
+      uri: "http://d-nb.info/gnd"
