@@ -13,4 +13,4 @@ This file is imported by ``invenio_subjects_gnd.__init__``,
 and parsed by ``setup.py``.
 """
 
-__version__ = '2022.01.12'
+__version__ = '2022.1.28'
